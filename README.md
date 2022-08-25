@@ -1,2 +1,2 @@
 # azure-resume
-My won Azure resume
+My own Azure resume
